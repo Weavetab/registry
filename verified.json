@@ -1,0 +1,12 @@
+{
+  "verified": [
+    "github-automation",
+    "seo-auditor",
+    "notion-sync",
+    "pdf-extract",
+    "docker-agent-sandbox",
+    "wt-n8n",
+    "weavetab_admin",
+    "@weavetab/plugin-vision"
+  ]
+}
