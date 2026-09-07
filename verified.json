@@ -1,4 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/weavetab/sdk/main/schema/plugin.json",
+  "version": 1,
+  "updatedAt": "2026-09-07T00:00:00Z",
   "verified": [
     "github-automation",
     "seo-auditor",
