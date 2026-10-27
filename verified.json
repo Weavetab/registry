@@ -1,15 +1,10 @@
 {
-  "$schema": "https://raw.githubusercontent.com/weavetab/sdk/main/schema/plugin.json",
+  "$schema": "https://weavetab.dev/schema/plugin.json",
   "version": 1,
-  "updatedAt": "2026-09-07T00:00:00Z",
+  "updatedAt": "2026-10-27T00:00:00Z",
   "verified": [
-    "github-automation",
-    "seo-auditor",
-    "notion-sync",
-    "pdf-extract",
-    "docker-agent-sandbox",
-    "wt-n8n",
-    "weavetab-admin",
-    "@weavetab/plugin-vision"
+    "@fy2ne/wt-youtube",
+    "@weavetab/plugin-auth",
+    "@weavetab/plugin-github"
   ]
 }
