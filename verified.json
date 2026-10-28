@@ -3,7 +3,7 @@
   "version": 1,
   "updatedAt": "2026-10-27T00:00:00Z",
   "verified": [
-    "@fy2ne/wt-youtube",
+    "wt-choas",
     "@weavetab/plugin-auth",
     "@weavetab/plugin-github"
   ]
