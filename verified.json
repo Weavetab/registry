@@ -1,7 +1,7 @@
 {
   "$schema": "https://weavetab.dev/schema/plugin.json",
   "version": 1,
-  "updatedAt": "2026-11-27T19:34:59.488Z",
+  "updatedAt": "2026-11-27T19:35:15.015Z",
   "verified": [
     "wt-choas",
     "@weavetab/plugin-auth",
@@ -12,6 +12,7 @@
     "github-automation",
     "docker-agent-sandbox",
     "notion-sync",
-    "pdf-extract"
+    "pdf-extract",
+    "wt-n8n"
   ]
 }
