@@ -1,12 +1,13 @@
 {
   "$schema": "https://weavetab.dev/schema/plugin.json",
   "version": 1,
-  "updatedAt": "2026-11-27T19:33:33.045Z",
+  "updatedAt": "2026-11-27T19:33:56.071Z",
   "verified": [
     "wt-choas",
     "@weavetab/plugin-auth",
     "@weavetab/plugin-github",
     "wt-chaos",
-    "@weavetab/plugin-vision"
+    "@weavetab/plugin-vision",
+    "weavetab-admin"
   ]
 }
